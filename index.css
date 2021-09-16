@@ -1,0 +1,28 @@
+.topbar{
+	width: 100%;
+	background-color: darkorange;
+	margin-bottom: 10px;
+}
+
+#login_form{
+	padding-top: 10%;
+	text-align: center;
+}
+
+form table{
+	text-align: right;
+	margin: auto;
+}
+
+form input, button{
+	border: 1px solid grey;
+	border-radius: 15px;
+}
+
+form input:focus{
+	background-color: lightgrey;
+}
+
+form button:hover{
+	background-color: yellow;
+}
